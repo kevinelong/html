@@ -1,6 +1,9 @@
-# one
+# README DEMO WITH PHOTO
+## one
 - a
 - b
 ## two
   - x
-    - z
+  - z
+# photos
+![Geek at large](kevin.jpg "instructor")
