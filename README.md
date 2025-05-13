@@ -6,4 +6,4 @@
   - x
   - z
 # photos
-![Geek at large](kevin.jpg "instructor")
+![Geek at large](./photos/kevin.jpg "instructor")
